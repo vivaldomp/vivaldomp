@@ -42,6 +42,11 @@ I’m a software engineer with **20+ years of experience**, currently serving as
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vivaldomp&theme=radical" alt="GitHub Streak" />
 </p>
 
+## 💡 Recent Innovations
+
+*   **[wireframer](https://github.com/vivaldomp/wireframer)**: AI-driven UX design companion. Turns ideas into validated `wireframe.json` + `design.md`.
+*   **[specly](https://github.com/vivaldomp/specly)**: Agent-agnostic developer harness for Angular: intent → wireframe → DSL → code.
+*   **[cloudexams](https://github.com/vivaldomp/cloudexams)**: A practice-exam system for Cloud Certifications (AWS, Azure, GCP).
 
 ### Projects 💼
 
@@ -64,3 +69,9 @@ To make one, create a repo named after your username (matching case exactly) and
 - Tutorial: [How To Create A GitHub Profile README](https://www.aboutmonica.com/blog/how-to-create-a-github-profile-readme)
 
 </details>
+
+---
+
+## 📫 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-vivaldomp-blue?logo=linkedin)](https://linkedin.com/in/vivaldomp)

@@ -44,18 +44,16 @@ I've also done some programming in Java, C++, C# ...
 - TailwindCSS (migrating from Styled Components approach)
 - AWS Services
 
-### GitHub Stats
+## 📊 GitHub Stats
 
-Here are some stats from the GitHub Readme Stats project for my profile.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vivaldomp&show_icons=true&theme=radical" alt="Vivaldo's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivaldomp&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
-<a href="https://github.com/vivaldomp" alt="Go to GitHub profile">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivaldomp&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"
-        alt="Top languages card" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vivaldomp" alt="Streak stats card" />
-    <img src="https://github-readme-stats.vercel.app/api?username=vivaldomp&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Profile stats card" />
-</a>
-
-The `S` score means "Top 1%" and is better than `A+`. Stats generated using [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) service.
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vivaldomp&theme=radical" alt="GitHub Streak" />
+</p>
 
 
 ### Projects 💼

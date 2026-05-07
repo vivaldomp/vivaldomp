@@ -1,19 +1,20 @@
-## Hi, I am a software maker
-> involved in researching new technologies and techniques to improve software development processes and their outcomes
+# Vivaldo Pinto | IT Manager & Platform Architect
 
-I'm a Senior Software Engineer working in Brazil developing microservices, spreading the culture of using microfrontends, customizing pipelines, all this in the cloud native approach. I build lots of projects for fun with GoLang, Javascript and more. A big fan of CI/CD, microservices, clean code, static website generators and the cloud (AWS).
+### 20+ Years of Engineering Leadership | Industrializing Software with AI & SDD
 
-My profile links are here - [bio.link/vivaldomp](https://bio.link/vivaldomp).
-<!--
-### Blogs and writing 📜 
+📍 **Brasília, Brazil**
 
-I've very active, writing content daily to at least one of these.
+---
 
-Area | Links
----  | ---
-Blog writing | [![vivaldomp.github.io - Coding Blog](https://img.shields.io/badge/vivaldomp.github.io-Coding_Blog-2bbc8a)](https://vivaldomp.github.io/coding-blog/)
-Reference and learning | [![vivaldomp.github.io - Dev Resources](https://img.shields.io/badge/vivaldomp.github.io-Dev_Resources-2bbc8a)](https://vivaldomp.github.io/dev-resources/) [![vivaldomp.github.io - Dev Cheatsheets](https://img.shields.io/badge/vivaldomp.github.io-Dev_Cheatsheets-2bbc8a)](https://vivaldomp.github.io/dev-cheatsheets/) [![vivaldomp.github.io - Code Cookbook](https://img.shields.io/badge/vivaldomp.github.io-Code_Cookbook-2bbc8a)](https://vivaldomp.github.io/code-cookbook/)
--->
+## 🚀 About Me
+
+I’m a software engineer with **20+ years of experience**, currently serving as **IT Manager at Banco do Brasil**. My work has evolved toward **platformization and AI-augmented development**, where I design systems that shift development from manual coding to spec-driven and automated pipelines.
+
+### Core Focus:
+* **Spec-Driven Development (SDD)** & structured engineering workflows.
+* **Platform Engineering** & Developer Experience (DevEx).
+* **AI-Augmented Engineering** (MCP ecosystems, agent-based pipelines).
+* **Microfrontends** & dynamic composition.
 
 ### Tools and skills 🎓
 

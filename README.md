@@ -33,14 +33,11 @@ I’m a software engineer with **20+ years of experience**, currently serving as
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vivaldomp&show_icons=true&theme=radical" alt="Vivaldo's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivaldomp&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+Here are some stats from the GitHub Readme Stats project for my profile.
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vivaldomp&theme=radical" alt="GitHub Streak" />
-</p>
+<a href="https://github.com/vivaldomp" alt="Go to GitHub profile">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vivaldomp" alt="Streak stats card" />
+</a>
 
 ## 💡 Recent Innovations
 

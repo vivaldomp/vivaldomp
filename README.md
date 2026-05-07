@@ -16,33 +16,20 @@ I’m a software engineer with **20+ years of experience**, currently serving as
 * **AI-Augmented Engineering** (MCP ecosystems, agent-based pipelines).
 * **Microfrontends** & dynamic composition.
 
-### Tools and skills 🎓
+## 🎓 Certifications
 
-Golang and Typescript are my first love and preferred language
+[![AWS Certified AI Practitioner](https://img.shields.io/badge/AWS-AI_Practitioner-orange?logo=amazon-aws)](https://www.credly.com/users/vivaldomp)
+[![CKAD](https://img.shields.io/badge/CNCF-CKAD-blue?logo=kubernetes)](https://www.credly.com/users/vivaldomp)
+[![AWS Solutions Architect](https://img.shields.io/badge/AWS-Solutions_Architect-orange?logo=amazon-aws)](https://www.credly.com/users/vivaldomp)
+[![AWS Developer Associate](https://img.shields.io/badge/AWS-Developer_Associate-orange?logo=amazon-aws)](https://www.credly.com/users/vivaldomp)
+[![OpenJS Node.js](https://img.shields.io/badge/OpenJS-Node.js_Services-green?logo=node.js)](https://www.credly.com/users/vivaldomp)
 
-- Backend (REST APIs, GraphQL, RabbitMQ, Migrations)
-- Frontend (ReactJS, NextJS)
-- Go packages (gin-gonic, cobra, viper, graphql-go and more)
-- JavaScript packages (Express, React, TypeScript, NextJS, Apollo)
-- Shell scripting (Linux)
-- Software testing (TDD, BDD, Selenium browser tests)
-- Monitoring and observability (Prometheus, Grafana, OpenTelemetry)
-- Architect and build AWS cloud infrastructure using Terraform (SQS queues, Postgres, MongoDB, CloudFront, DNS, EC2, and Lambdas)
-- Containerized services (Docker and Kubernetes)
-- Deployment pipelines (GitHub Actions, Jenkins)
-- SQL and Non-SQL databases (PostgreSQL, MySQL/MariaDB, MongoDB, Redis)
-- Data Science (web scraping)
-- Write documentation and make documentation sites 
-- SO (I love linux!)
+## 🛠️ Expertise & Stack
 
-I've also done some programming in Java, C++, C# ...
-
-
-### I’m currently learning more about 🌱
-
-- Static Site Generators with NextJS
-- TailwindCSS (migrating from Styled Components approach)
-- AWS Services
+- **Frameworks:** Angular (Expert), Node.js, Express, FastAPI.
+- **Infrastructure:** Kubernetes, Docker, AWS, Terraform, DevOps Pipelines.
+- **Architectures:** Microfrontends, Event-Driven, Workflow Engines.
+- **AI/ML:** Prompt Engineering, RAG, LLM Fine-tuning, Agentic Workflows.
 
 ## 📊 GitHub Stats
 
